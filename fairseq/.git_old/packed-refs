@@ -1,0 +1,36 @@
+# pack-refs with: peeled fully-peeled sorted 
+70b02caf633ef9041b033941bd90306c36cdc5b7 refs/remotes/origin/bi_trans_lm
+4634c3f14b9fb311b059586178beb97bdeb4e7cb refs/remotes/origin/blockbert
+23adb0c110fdd5e9166b3939987c5d26df996ec3 refs/remotes/origin/classic_seqlevel
+fc83bae0e776bf94a46f8fae5d5a9f827caf370d refs/remotes/origin/dev_tpu_mp
+ee450dde198e404ae897acd8854665ed8719801e refs/remotes/origin/edunov
+462eaafee5f056ad9c9ca07e87dd842a3aa56f9a refs/remotes/origin/integrate-deepspeed-decoder-layer
+7a3016dc089aabdc99131b4e91553e37805a884c refs/remotes/origin/lightning
+ca36b437e463c9f202efacd67ce80ae201361dc8 refs/remotes/origin/main
+ebea0072062e2e8f4563644f27546df355357f5e refs/remotes/origin/moe
+8c304a42a4557352d7f7fcadfbe5b4a3bf89f578 refs/remotes/origin/monotonic_multihead_attention
+20bbbdc068dabef1a3a4689dd5a9ccffcc8297c5 refs/remotes/origin/naive_beamsearch
+00b6bddd79880059d151bbeb7629aabdb44a463f refs/remotes/origin/normformer-public
+9e80e19e9a4cc18c08144233394c5db18f72e82a refs/remotes/origin/normformer2
+2b9d76abf0095dff4fc8561576362151b38a4bca refs/remotes/origin/plasma-patch
+7e86b6eafb62da42fe936c60be1c141cf621f882 refs/remotes/origin/profile-data
+503b32ac9a4dbe81aa6e8d054f0b6ff9aebeb920 refs/remotes/origin/repro_analyzing_uncertainty
+61d10100326130d2eceee85167d5ec2d9970ebbe refs/remotes/origin/seq_task
+4ee9724f3a6a47134483e4955c688f4f34432ee0 refs/remotes/origin/simulastsharedtask
+83e615d66905b8ca7483122a37da1a85f13f4b8e refs/remotes/origin/v0.10.2
+bdf09e1321a77252835550e84d73ad1bb3f3173c refs/remotes/origin/xlmr_benchmark
+3e5a2739bce92b2516d060959a1aa3dd51d221dc refs/tags/v0.10.0
+8a0b56efeecba6941c1c0e81a3b86f0a219e6653 refs/tags/v0.10.1
+83e615d66905b8ca7483122a37da1a85f13f4b8e refs/tags/v0.10.2
+d82945d1832f0a1c75d0e3d12fb6dfb9d6c96a79 refs/tags/v0.3.0
+^7e86e30cc5b97db30403b738de2dbbb55f06a92b
+ec0031df7b2c7d583b13efaffbb7a2f03e87378c refs/tags/v0.4.0
+388c520be21752cacb9fe3b1712038f32e0e9a5f refs/tags/v0.5.0
+864b89d044ffdd33f13802af20da8714bf2855f5 refs/tags/v0.6.0
+fbd4cef9a575b5f77ca05d4b7c3ad3adb11141ac refs/tags/v0.6.1
+e6422528dae0b899848469efe2dc404c1e639ce9 refs/tags/v0.6.2
+bd710e75aecb5f1dd8fdd6e2a947d6aeebe45258 refs/tags/v0.7.0
+881381cfc7cf5006712181138ff5b0811052cc57 refs/tags/v0.7.1
+b002d0096ea82c77be7027b205d0b29de82edde4 refs/tags/v0.7.2
+ffffe04ea12679bdc12fbbafdc6406dd3e6c9943 refs/tags/v0.8.0
+df2f84ce619edddb80e720a56abc74d5490fed99 refs/tags/v0.9.0

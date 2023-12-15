@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 26d62ae8fbf3deccf01a138d704be1e5c346ca9a root <root@VM-252-74-centos.(none)> 1657157846 +0800	fetch: storing head
+26d62ae8fbf3deccf01a138d704be1e5c346ca9a bffdfe65270796c9e041ec4ea079e4db40c32217 root <root@VM-252-74-centos.(none)> 1657244421 +0800	fetch: fast-forward
+bffdfe65270796c9e041ec4ea079e4db40c32217 fcf0d533fde58fe6de0b2eea101227ee891269f6 root <root@VM-252-74-centos.(none)> 1657257089 +0800	fetch: fast-forward
+fcf0d533fde58fe6de0b2eea101227ee891269f6 d34deb778004640c9ff2853358a667d983c21796 root <root@VM-252-74-centos.(none)> 1659321240 +0800	fetch: fast-forward
+d34deb778004640c9ff2853358a667d983c21796 5fba6395012fa6f4d395dd691cee70f6aa3d4c06 root <root@VM-252-74-centos.(none)> 1659408184 +0800	fetch: fast-forward
+5fba6395012fa6f4d395dd691cee70f6aa3d4c06 f87107c321c46b2263a988a006460b8af4e7c790 root <root@VM-252-74-centos.(none)> 1659498136 +0800	fetch: fast-forward
+f87107c321c46b2263a988a006460b8af4e7c790 eb61e229bedf02321bfef25cde3da28b3c155ade root <root@VM-252-74-centos.(none)> 1661928502 +0800	fetch: fast-forward
